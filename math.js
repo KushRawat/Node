@@ -1,8 +1,8 @@
-module.exports.add = (x, y) => x + y
+exports.add = (x, y) => x + y
 
-module.exports.PI = 3.14159
+exports.PI = 3.14159
 
-module.exports.square = x => x * x
+exports.square = x => x * x
 
 // module.exports.add = add
 // module.exports.PI = PI
