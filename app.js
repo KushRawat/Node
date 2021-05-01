@@ -1,2 +1,5 @@
-const math = require('./math')
-console.log(math)
+const { add, PI } = require('./math')
+console.log(PI)
+
+console.log(add(9,5))
+
